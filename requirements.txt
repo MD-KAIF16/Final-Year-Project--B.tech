@@ -1,5 +1,9 @@
-streamlit
-torch
-torchvision
-pillow
-gdown
+streamlit==1.31.1
+torch==2.1.2
+torchvision==0.16.2
+numpy==1.26.3
+pillow==10.2.0
+opencv-python==4.9.0.80
+matplotlib==3.8.2
+fpdf==1.7.2
+gdown==5.1.0
